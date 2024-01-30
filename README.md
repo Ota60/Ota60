@@ -1,5 +1,5 @@
-- 👋 Merhaba ben ota60
-- Ben python ile uygulama geliştiriyorum.
+#- 👋 Merhaba ben ota60
+#- Ben python ile uygulama #geliştiriyorum.
 - print("ota")
 
 <!---
